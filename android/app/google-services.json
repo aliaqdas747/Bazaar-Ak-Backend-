@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1027001585310",
+    "project_id": "bazaar-ak",
+    "storage_bucket": "bazaar-ak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027001585310:android:d6a804606e8192b433758f",
+        "android_client_info": {
+          "package_name": "com.bazaar.ak.bazaar_ak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027001585310-gs6id2v45k9p9rbo4sc25goo40ks27ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bazaar.ak.bazaar_ak",
+            "certificate_hash": "42c7616eb3b2ff261aacfaff20fcb20dfa739af0"
+          }
+        },
+        {
+          "client_id": "1027001585310-5lut6928s0k0nf3j206ijm7d30u6tjoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtXxpNQdafbx4urKpORzIohAU3ELtHQ_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027001585310-5lut6928s0k0nf3j206ijm7d30u6tjoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027001585310-ke3u8lvb73l6dnnf3tevaif6jm3lj0gu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bazaar.ak.bazaarAk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027001585310:android:bb37d336fa20dbda33758f",
+        "android_client_info": {
+          "package_name": "com.bazaar.ak.clear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027001585310-5lut6928s0k0nf3j206ijm7d30u6tjoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtXxpNQdafbx4urKpORzIohAU3ELtHQ_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027001585310-5lut6928s0k0nf3j206ijm7d30u6tjoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027001585310-ke3u8lvb73l6dnnf3tevaif6jm3lj0gu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bazaar.ak.bazaarAk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
